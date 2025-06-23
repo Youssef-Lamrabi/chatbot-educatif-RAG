@@ -1,0 +1,50 @@
+{
+  "login": {
+    "title": "تسجيل الدخول",
+    "usernameLabel": "اسم المستخدم",
+    "passwordLabel": "كلمة المرور",
+    "loginButton": "تسجيل الدخول",
+    "noAccount": "ليس لديك حساب؟ สมัครสมาชิก",
+    "errorMessage": "اسم المستخدم أو كلمة المرور غير صحيحة."
+  },
+  "signup": {
+    "title": "التسجيل",
+    "roleLabel": "أنا",
+    "student": "طالب",
+    "teacher": "معلم",
+    "admin": "مدير",
+    "signupButton": "تسجيل",
+    "haveAccount": "لديك حساب بالفعل؟ تسجيل الدخول"
+  },
+  "chat": {
+    "title": "روبوت الدردشة التعليمي",
+    "inputPlaceholder": "اطرح سؤالك هنا...",
+    "sendButton": "إرسال",
+    "conversationsTitle": "المحادثات",
+    "newChat": "دردشة جديدة",
+    "loadHistoryError": "خطأ في تحميل السجل. يرجى المحاولة مرة أخرى.",
+    "sendMessageError": "خطأ في الشبكة أو الخادم غير متوفر.",
+    "noMessages": "لا توجد رسائل في هذه المحادثة. ابدأ الدردشة!",
+    "loadingHistory": "جاري تحميل السجل...",
+    "userLabel": "أنت",
+    "botLabel": "الروبوت"
+  },
+  "dashboard": {
+    "title": "لوحة تحكم المسؤول",
+    "totalUsers": "إجمالي المستخدمين",
+    "usersList": "قائمة المستخدمين",
+    "usernameHeader": "اسم المستخدم",
+    "roleHeader": "الدور",
+    "joinedHeader": "تاريخ الانضمام",
+    "noAccess": "الوصول مرفوض. للمسؤولين فقط."
+  },
+  "common": {
+    "logout": "تسجيل الخروج",
+    "loading": "جار التحميل...",
+    "error": "خطأ"
+  },
+  "languages": {
+    "english": "الإنجليزية",
+    "arabic": "العربية"
+  }
+}

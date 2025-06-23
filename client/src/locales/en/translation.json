@@ -1,0 +1,50 @@
+{
+  "login": {
+    "title": "Login",
+    "usernameLabel": "Username",
+    "passwordLabel": "Password",
+    "loginButton": "Login",
+    "noAccount": "Don't have an account? Sign Up",
+    "errorMessage": "Invalid username or password."
+  },
+  "signup": {
+    "title": "Sign Up",
+    "roleLabel": "I am a",
+    "student": "Student",
+    "teacher": "Teacher",
+    "admin": "Administrator",
+    "signupButton": "Sign Up",
+    "haveAccount": "Already have an account? Login"
+  },
+  "chat": {
+    "title": "Educational Chatbot",
+    "inputPlaceholder": "Ask your question here...",
+    "sendButton": "Send",
+    "conversationsTitle": "Conversations",
+    "newChat": "New Chat",
+    "loadHistoryError": "Error loading history. Please try again.",
+    "sendMessageError": "Network error or server unavailable.",
+    "noMessages": "No messages in this conversation. Start chatting!",
+    "loadingHistory": "Loading history...",
+    "userLabel": "You",
+    "botLabel": "Chatbot"
+  },
+  "dashboard": {
+    "title": "Admin Dashboard",
+    "totalUsers": "Total Users",
+    "usersList": "Users List",
+    "usernameHeader": "Username",
+    "roleHeader": "Role",
+    "joinedHeader": "Joined",
+    "noAccess": "Access Denied. Admin only."
+  },
+  "common": {
+    "logout": "Logout",
+    "loading": "Loading...",
+    "error": "Error"
+  },
+  "languages": {
+    "english": "English",
+    "arabic": "Arabic"
+  }
+}
